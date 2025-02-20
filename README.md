@@ -6,4 +6,4 @@ The script is by far not finished or user-friendly but since there are hundreds 
 
 The highlights.txt can be used with tools like yt-dlp to download the vods all in one go without the need to get the URL or to browse through every single highlight page.
 
-You need a Twitch Token, a client id and the user_id of the streamer you want to download. Twitch has a lot of documentation on this, so please get familiar with that first.
+You need a Twitch Token, a client id and the user_id of the streamer you want to download from. Twitch has a lot of documentation on this, so please get familiar with that first.
