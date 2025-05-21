@@ -8,7 +8,7 @@ The highlights.txt can be used with tools like yt-dlp to download the vods all i
 
 You need a Twitch Token, a client id and the user_id of the streamer you want to download from. Twitch has a lot of documentation on this, so please get familiar with that first.
 
-# How to get the an your broadcaster id, client id and an oauth Token
+# How to get your broadcaster id, client id and an oauth Token
 
 - An easy way to get the Broadcaster ID is: https://www.streamweasels.com/tools/convert-twitch-username-%20to-user-id/
 - You need to register your application at: https://dev.twitch.tv/console/apps (a free Twitch Account is required)
